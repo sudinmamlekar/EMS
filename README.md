@@ -6,3 +6,4 @@ In Admin Module an admin can add employee details and can approve or reject leav
 In Employee module an employee can view his details, Holiday list and can apply leaves.
 Admin Login:- username: admin password:123
 Employee Login:- email:pp@pp.com  password:Sudin@1234
+Note:- use tab button when you add data.
