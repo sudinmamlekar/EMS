@@ -1,5 +1,5 @@
 # EMS
-Employee Management System
+Employee Management System using oops.
 Project basically deals with employee data in an company.
 It contains two modules :- 1>Admin  2>Employee.
 In Admin Module an admin can add employee details and can approve or reject leaves, add department, designation and holidays.
